@@ -1,0 +1,48 @@
+.table-borderless {
+  margin-top: 2rem;
+}
+.screen-line {
+  width: 85%;
+  margin: 0 auto;
+  height: 0.3rem;
+  background: white;
+  margin-top: 5rem;
+}
+.screen {
+  color: white;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.sign-in-system{
+  background: white;
+  border-radius: 0.3rem black solid;
+  color: black;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.hall-tbody> tr > td {
+  margin: 1rem;
+  text-align: center;
+  color: white;
+}
+.no-place {
+  display: none
+}
+.button-by-tickets {
+  position: fixed;
+  right: 2%;
+}
+.hall-tbody> tr > td >div>button{
+  padding: 1rem;
+  width: 5rem;
+  height: 3rem;
+  background: white;
+  color: white;
+  border: 0.3rem black solid;
+  padding: 0;
+}
+.hall-tbody> tr > td >div>button:hover{
+  background: #9f9d9d;
+}

@@ -1,0 +1,19 @@
+.films-component {
+  margin: 0 auto;
+  margin-top: 10rem;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+.films-catalog {
+  padding: 0 3rem;
+  width: 70%;
+  color: black;
+  margin: 0 auto;
+}
+
+.films-catalog > div {
+  border: 0.3rem black;
+  width: 45%;
+  margin: 1rem 1.5rem;
+}

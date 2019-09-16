@@ -1,0 +1,9 @@
+.sign-up {
+  margin: 0 auto;
+  margin-top: 10rem;
+  background: black;
+  color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 0.1rem white solid;
+}
